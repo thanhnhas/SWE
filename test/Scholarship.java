@@ -26,7 +26,7 @@ public class Scholarship {
         }else if(gpa>=3.4){
             return 70;
         }else{
-            return 0;
+            
         }
     }
 
