@@ -40,7 +40,7 @@ public class Schoolarship {
         double p = Double.parseDouble(sc.nextLine());
         int output = s.Schoolarship(p);
         System.out.println("Your schoolarship: " + output);
-        System.out.println("Your schoolarship: " + output);
+        
         
 
     }
