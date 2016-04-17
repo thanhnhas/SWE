@@ -36,7 +36,7 @@ public class Schoolarship {
     public static void main(String[] args) {
         Schoolarship s = new Schoolarship();
         Scanner sc = new Scanner(System.in);
-        System.out.println("Please input your point: ");
+        System.out.println("Please input your point: ")
         double p = Double.parseDouble(sc.nextLine());
         int output = s.Schoolarship(p);
         System.out.println("Your schoolarship: " + output);
